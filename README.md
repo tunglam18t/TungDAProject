@@ -3,6 +3,8 @@
 # About Dataset
 This dataset contains detailed information about movies listed on IMDb, including titles, genres, release dates, and ratings. It also includes user reviews and ratings, making it an excellent resource for sentiment analysis and trend analysis in the movie industry. This dataset can be used to gain insights into movie trends, audience preferences, and the correlation between movie attributes and ratings.
 
+https://www.kaggle.com/datasets/parthdande/imdb-dataset-2024-updated
+
 # Results
 # Top 5 succesful directors in 21 century
 
